@@ -1,0 +1,1 @@
+void ModificationCesar(wchar_t *ptrch, int choix, int valeurDecalage, wchar_t *ptrAlphabet);
