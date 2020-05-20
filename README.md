@@ -4,7 +4,7 @@ Réalisation d'un **mini projet en C** réalisé par Ugo Legouas & Mehdi Zenasni
 Le sujet traite du **chiffrement** et **déchiffrement** de message grâce à l'algorithme de César et de Vigenère et avec gestion des caractères accentués
 
 
-![cons](/uploads/881549f548234e3e4052515b71c18661/cons.PNG)
+![consigne](https://framagit.org/Soulsedge/mini-projet-c/uploads/881549f548234e3e4052515b71c18661/cons.PNG)
 
 ## Documentation : 
 |Sommaire des fonctions                                                                                    |
